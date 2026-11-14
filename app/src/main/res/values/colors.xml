@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1A4D8F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="status_available">#2E7D32</color>
+    <color name="status_reserved">#EF6C00</color>
+    <color name="status_occupied">#C62828</color>
+    <color name="status_unavailable">#616161</color>
+</resources>
