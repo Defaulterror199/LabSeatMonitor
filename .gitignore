@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+# Phase 2: never commit Firebase secrets/keys unless the instructor says so
+# (follow the instructor's google-services.json guidance)
+app/google-services.json
